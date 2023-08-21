@@ -879,8 +879,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .card {
 	background-color: transparent;
-	width: 300px;
-	height: 300px;
+	/* width: 300px; */
+	/* height: 300px; */
 	perspective: 1000px;
 }
 
@@ -992,4 +992,11 @@ section#contact form#contactForm :-ms-input-placeholder {
 		'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 	font-weight: 700;
 	color: #ced4da;
+}
+
+/* --darkGreenColor: #224a01;
+	--lightGreenColor: #71a023; */
+
+.img-fluid {
+	width: 100%;
 }
